@@ -34,7 +34,14 @@ through the Color Machine.
 
 ![An example palette with a lot of blues.](example-palette.png)
 
+## Credits ##
+
+Color Machine was prompted by [a Twitter conversation][origin] with [Matt DesLauriers][].
+
 ## License ##
 
 All code is licensed under a MIT license. See the [LICENSE](LICENSE) file for
 more details.
+
+[origin]: https://twitter.com/mattdesl/status/1258730249023438848 "Matt DesLauriers (Twitter): ML / AI friends — I have thousands of color palettes...I'd like to synthesize new palettes..."
+[Matt DesLauriers]: https://github.com/mattdesl "Matt Des (GitHub): @mattdesl"
