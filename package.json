@@ -1,0 +1,13 @@
+{
+  "name": "color-machine",
+  "author": "Frank Mitchell",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "An AI that generates color palettes",
+  "repository": "https://github.com/onefrankguy/color-machine",
+  "private": true,
+  "devDependencies": {
+    "ml-som": "0.0.6",
+    "pngjs": "^5.0.0"
+  }
+}
