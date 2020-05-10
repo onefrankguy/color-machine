@@ -19,15 +19,15 @@ Palettes are expressed as a set of RGB colors. Each color has the format
 range 0 to 255. The weight component is in the range 0 to 1; it's the percentage
 of space in the palette the color takes up.
 
-The example palette below is from...
+![An example palette with a lot of blue colors](example-palette.png)
 
 ```javascript
 [
-  [],
-  [],
-  [],
-  [],
-  [],
+  [2, 83, 115, 0.2],
+  [1, 52, 64, 0.2],
+  [6, 136, 166, 0.2],
+  [24, 197, 217, 0.2],
+  [48, 242, 242, 0.2],
 ]
 ```
 
